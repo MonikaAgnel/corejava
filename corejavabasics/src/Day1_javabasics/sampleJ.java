@@ -8,8 +8,8 @@ public class sampleJ {
 		System.out.println("enter the values of a and b:");
 		a=s.nextInt();
 		b=s.nextInt();
-		c=a+b;
-		System.out.println("addition of a="+a+" and b="+b+" is:" +c);
+		c=a-b;
+		System.out.println("subtraction of a="+a+" and b="+b+" is:" +c);
 	}     
 
 }
